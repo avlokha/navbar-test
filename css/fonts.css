@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Avenir Book";
+  src: url("../fonts/Avenir-Book.eot");
+  src: url("../fonts/Avenir-Book.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Avenir-Book.woff2") format("woff2"),
+    url("../fonts/Avenir-Book.woff") format("woff"),
+    url("../fonts/Avenir-Book.ttf") format("truetype");
+}
