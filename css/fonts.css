@@ -6,3 +6,11 @@
     url("../fonts/Avenir-Book.woff") format("woff"),
     url("../fonts/Avenir-Book.ttf") format("truetype");
 }
+@font-face {
+  font-family: "Avenir Medium";
+  src: url("../fonts/Avenir-Medium.eot");
+  src: url("../fonts/Avenir-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Avenir-Medium.woff2") format("woff2"),
+    url("../fonts/Avenir-Medium.woff") format("woff"),
+    url("../fonts/Avenir-Medium.ttf") format("truetype");
+}

@@ -20,12 +20,12 @@ a {
   width: 319px;
   height: 1080px;
 }
-.first a {
+.first1 a {
   display: flex;
   justify-content: space-around;
   padding-top: 10%;
 }
-.first a h1 {
+.first1 a h1 {
   font-size: 24px;
   color: white;
   font-family: "Avenir Book";
@@ -33,4 +33,25 @@ a {
 .todey {
   font-weight: normal;
   opacity: 70%;
+}
+.first2 {
+  display: flex;
+}
+.first2 img {
+  width: 24px;
+  height: 24px;
+}
+.first2 a {
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-top: 51px;
+  margin-left: 60px;
+}
+.first2 a img {
+  margin-right: 15px;
+}
+.fontspan {
+  font-family: "Avenir Medium";
+  font-size: 16px;
 }
