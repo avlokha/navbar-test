@@ -27,7 +27,7 @@ a {
 }
 .first1 a h1 {
   font-size: 24px;
-  color: white;
+  color: #ffffff;
   font-family: "Avenir Book";
 }
 .todey {
@@ -53,7 +53,7 @@ nav {
   height: 24px;
 }
 .first2 a {
-  color: white;
+  color: #ffffff;
   display: flex;
   align-items: center;
   /* margin-top: 51px; */
@@ -75,7 +75,7 @@ nav {
 }
 .following h3 {
   font-family: "Avenir Heavy";
-  color: white;
+  color: #ffffff;
   font-size: 12px;
   margin-left: 60px;
   margin-top: 87px;
@@ -87,7 +87,7 @@ nav {
   margin-right: 21px;
 }
 .white {
-  color: white;
+  color: #ffffff;
 }
 .following1 {
   display: flex;
