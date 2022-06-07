@@ -14,3 +14,11 @@
     url("../fonts/Avenir-Medium.woff") format("woff"),
     url("../fonts/Avenir-Medium.ttf") format("truetype");
 }
+@font-face {
+  font-family: "Avenir Heavy";
+  src: url("../fonts/Avenir-Heavy.eot");
+  src: url("../fonts/Avenir-Heavy.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Avenir-Heavy.woff2") format("woff2"),
+    url("../fonts/Avenir-Heavy.woff") format("woff"),
+    url("../fonts/Avenir-Heavy.ttf") format("truetype");
+}
